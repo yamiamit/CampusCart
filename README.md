@@ -49,7 +49,7 @@ In order to install all packages follow the steps below:
  #### customer side
  1. Move to <b> OldCode/CC_Customer </b>
  2. `npm install`
- 3. `npx expo start`
+ 3. `npx react-native start`
  4. To run the application install the Expo Go application from Play Store and scan the QR Code or run  it on emulator
 
  #### shopkeeper side
