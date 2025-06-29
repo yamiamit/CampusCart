@@ -144,3 +144,9 @@ OldCode/CC_Customer/
 
 
 ```
+
+## 📬 Contact
+This application is maintained by the **Coding Club, IIT Guwahati**.  
+For collaboration, feedback, or suggestions, please reach out via:
+
+- **📧 Email**: `codingclub@iitg.ac.in`
